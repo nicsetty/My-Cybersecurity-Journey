@@ -30,6 +30,44 @@ Each entry stands as evidence of discipline, curiosity, and unwavering pursuit o
 
 ---
 
+## 📊 The Progress Ledger
+
+> *A careful account of scholarly advancement*
+
+### 🛡️ Cybersecurity Foundations
+- [ ] Networking Fundamentals Refresher
+- [ ] CIA Triad & Core Principles
+- [ ] Cryptography Basics
+- [ ] Threats, Vulnerabilities & Risk Management
+- [ ] Security Architecture Concepts
+
+### 🔐 Practical Security Training
+- [ ] TryHackMe Labs
+- [ ] HackTheBox Labs
+- [ ] Wireshark Practice
+- [ ] Nmap Scanning Exercises
+- [ ] Vulnerability Assessment Practice
+
+### 📜 Certifications Preparation
+- [ ] Security+ Preparation
+- [ ] CEH Concepts Review
+- [ ] Practice Exams
+- [ ] Weak Area Analysis
+
+### 💻 Technical Skill Enhancement
+- [ ] Python for Security
+- [ ] Bash Scripting
+- [ ] Git & Version Control Mastery
+- [ ] Linux Administration
+
+### 📂 Projects & Portfolio
+- [ ] Mini Security Tool
+- [ ] Write-up of Real Lab Scenario
+- [ ] Documentation Project
+- [ ] Capstone Security Project
+
+---
+
 ## 🎯 Purpose of This Chronicle
 
 To rebuild.  
